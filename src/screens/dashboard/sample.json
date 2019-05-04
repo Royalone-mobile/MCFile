@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Digital Collection",
+    "items": [
+      {
+        "id": 1,
+        "name": "Document",
+        "count": 3645,
+        "icon": "file-document-box"
+      },
+      {
+        "id": 2,
+        "name": "Email",
+        "count": 22,
+        "icon": "email"
+      },
+      {
+        "id": 3,
+        "name": "Document Modal",
+        "count": 1,
+        "icon": "file-document-box-multiple"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sales Collection",
+    "items": [
+      {
+        "id": 1,
+        "name": "Document",
+        "count": 2312,
+        "icon": "file-document-box"
+      },
+      {
+        "id": 2,
+        "name": "Email",
+        "count": 250,
+        "icon": "email"
+      },
+      {
+        "id": 3,
+        "name": "Document Modal",
+        "count": 14,
+        "icon": "file-document-box-multiple"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Delivery Collection",
+    "items": [
+      {
+        "id": 1,
+        "name": "Document",
+        "count": 150,
+        "icon": "file-document-box"
+      },
+      {
+        "id": 2,
+        "name": "Email",
+        "count": 10,
+        "icon": "email"
+      },
+      {
+        "id": 3,
+        "name": "Document Modal",
+        "count": 4,
+        "icon": "file-document-box-multiple"
+      }
+    ]
+  }
+]

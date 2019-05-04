@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "McFile",
+    "icon":"./assets/app-icon-png.png",
+    "slug": "McFile",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mcfile.dev"
+    },
+    "android":{
+      "package":"com.mcfile.dev"
+    },
+    "description": ""
+  }
+}
